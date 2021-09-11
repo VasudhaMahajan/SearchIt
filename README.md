@@ -1,4 +1,4 @@
-# Geo-tagging of disabled-friendly locations
+# Geotagging of disabled-friendly locations
 
 An android application to map disabled-friendly locations tailored for deaf, dumb, blind and handicapped people.
 
